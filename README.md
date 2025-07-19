@@ -192,14 +192,4 @@ System calls provide the interface between a process and the Operating System.
 
 ---
 
-## 🧾 Practice Questions
-
-1. Explain different states of a process with a diagram.
-2. Write the Banker's algorithm and solve a sample problem.
-3. Calculate waiting time for RR scheduling with time quantum 2.
-4. Difference between paging and segmentation.
-5. How does a semaphore avoid race conditions?
-
----
-
 **Happy Learning & Best of Luck for Interviews!** 🚀
